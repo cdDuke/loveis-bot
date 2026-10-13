@@ -1,0 +1,2 @@
+"""LoveIS Telegram bot package."""
+
